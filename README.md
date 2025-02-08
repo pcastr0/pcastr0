@@ -1,4 +1,4 @@
-# Hello friend 👋, I'm Patrick Castro!
+# Hello friend 👋, I'm Patrick Castro! 😁
 
 ## 💻 About Me
 
