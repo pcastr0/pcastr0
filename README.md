@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I am a Full Stack Software Engineer with extensive expertise in building cloud-native applications and designing headless/composable commerce architectures. I have a strong focus on observability and monitoring, and I am deeply passionate about troubleshooting, debugging logs, and resolving issues or bugs. I also enjoy experimenting with computer hardware in my spare time. I thrive on working on innovative projects and am eager to contribute to open-source communities.
+I am a Full Stack Software Engineer with extensive expertise in building cloud-native applications and designing headless/composable commerce architectures. I have a strong focus on DevOps practices, observability and monitoring, and I am deeply passionate about troubleshooting, debugging logs, and resolving issues or bugs. I also enjoy experimenting with computer hardware in my spare time. I thrive on working on innovative projects and am eager to contribute to open-source communities.
 
 ## 🔧 Technologies & Tools
 
