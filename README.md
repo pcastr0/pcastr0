@@ -23,7 +23,6 @@ I am a Full Stack Software Engineer with extensive expertise in building cloud-n
 - **Email**: [patrickp.castro@protonmail.com](mailto:patrickp.castro@protonmail.com)
 - **LinkedIn**: [Patrick Paul C Castro](https://www.linkedin.com/in/patrickpcastro)
 - **GitHub**: [pcastr0](https://github.com/pcastr0)
-- **Website**: [pcastro.dev](https://www.pcastro.dev)
 
 ## 🤝 Let's Connect!
 
