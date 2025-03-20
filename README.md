@@ -15,7 +15,7 @@ I am a Full Stack Software Engineer with extensive expertise in building cloud-n
 ## 🌱 Currently Learning
 
 - Advanced Docker and Kubernetes
-- AI Large Language Models
+- Learning C and Go Programming Language
 - Exploring Cybersecurity and Self-hosting websites/services
 
 ## 📫 How to Reach Me
