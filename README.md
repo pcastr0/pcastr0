@@ -6,7 +6,7 @@ I am a Full Stack Software Engineer with extensive expertise in building cloud-n
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Bash, Java, PHP, Python
+- **Languages**: JavaScript, TypeScript, Bash, and Python
 - **Frameworks**: NodeJS, ExpressJS, GraphQL, ReactJS with Redux, NextJS, VueJS
 - **Platforms/Tools**: AWS (EC2, Lambda, Step Functions, RDS, Cloudfront, S3, Cloudwatch, CodePipeline, SNS/SQS, DynamoDB), Serverless Framework, Netlify, Vercel, Docker, Linux (CentOS/RHEL/Debian)
 - **Databases**: SQL, NoSQL
