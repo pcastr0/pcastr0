@@ -14,9 +14,9 @@ I am a Full Stack Software Engineer with extensive expertise in building cloud-n
 
 ## 🌱 Currently Learning
 
-- Advanced Docker and Kubernetes
-- Learning C and Go Programming Language
-- Exploring Cybersecurity and Self-hosting websites/services
+- Type 1 Hypervisor Virtualization using Proxmox VE and Container Orchestration using Kubernetes
+- Might learn low-level programming languages like C/C++, Go or Rust 🤔
+- Exploring Homelab/Homeserver for DIY self-hosted projects and Cybersecurity
 
 ## 📫 How to Reach Me
 
