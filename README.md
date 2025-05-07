@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I am a Javasccript/Cloud Engineer with extensive experience in building/supporting cloud-native applications and headless/composable commerce architectures. I have a strong focus on DevOps practices, observability, monitoring and Automation mindset. I am deeply passionate about diving deep on Traditional/Modern/Hybrid-Cloud Systems Design and Infrastructure Engineering. I also enjoy experimenting with computer hardware in my spare time and if money permits 😅. I thrive on working on innovative projects and am eager to contribute to open-source communities that peaks my interest in Technologies.
+I am a Javascript/Cloud Engineer with extensive experience in building/supporting cloud-native applications and headless/composable commerce architectures. I have a strong focus on DevOps practices, observability, monitoring and Automation mindset. I am deeply passionate about diving deep on Traditional/Modern/Hybrid-Cloud Systems Design and Infrastructure Engineering. I also enjoy experimenting with computer hardware in my spare time and if money permits 😅. I thrive on working on innovative projects and am eager to contribute to open-source communities that peaks my interest in Technologies.
 
 ## 🔧 Technologies & Tools
 
