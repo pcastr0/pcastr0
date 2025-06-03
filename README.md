@@ -16,7 +16,7 @@ I am a Javascript/Cloud Engineer with extensive experience in building/supportin
 
 - Type 1 Hypervisor Virtualization using Proxmox VE and Container Orchestration using Kubernetes
 - Might learn low-level programming languages like C/C++, Go or Rust 🤔
-- Exploring Homelab/Homeserver for DIY self-hosted projects, Cybersecurity and Testing out AI LLMs
+- Exploring Homelab/Homeserver for FOSS/DIY self-hosted projects, Cybersecurity and Testing out AI LLMs
 
 ## 📫 How to Reach Me
 
