@@ -22,7 +22,6 @@ I am a Javascript/Cloud Engineer with extensive experience in building/supportin
 
 - **Email**: [patrickp.castro@protonmail.com](mailto:patrickp.castro@protonmail.com)
 - **LinkedIn**: [Patrick Paul C Castro](https://www.linkedin.com/in/patrickpcastro)
-- **GitHub**: [pcastr0](https://github.com/pcastr0)
 
 ## 🤝 Let's Connect!
 
