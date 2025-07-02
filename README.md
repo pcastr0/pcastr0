@@ -14,8 +14,8 @@ I am a Javascript/Cloud Engineer with extensive experience in building/supportin
 
 ## 🌱 Currently Learning
 
-- Hypervisor Virtualization using Proxmox VE and Container Orchestration using Kubernetes
-- AI agents and LLMs 
+- Container Orchestration using Kubernetes
+- AI agents and LLMs
 - Exploring self-hosted FOSS/DIY projects
 
 ## 📫 How to Reach Me
