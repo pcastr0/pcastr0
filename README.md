@@ -15,8 +15,9 @@ I am a Software Engineer with extensive experience in building/supporting cloud-
 ## 🌱 Currently Learning
 
 - Container Orchestration using Kubernetes
+- Network Design and Architecture, foundational Network Security 
 - Building AI agents and Retraining/Fine-Tuning LLMs
-- Exploring C++ for Game Development
+- Exploring self-hosted FOSS/DIY projects
 
 ## 📫 How to Reach Me
 
