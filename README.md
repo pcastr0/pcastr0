@@ -8,7 +8,7 @@ I am a Software Engineer with extensive experience in building/supporting cloud-
 
 - **Languages**: JavaScript, TypeScript, Bash, Python and Lua.
 - **Frameworks**: NodeJS, ExpressJS, GraphQL, ReactJS with Redux, NextJS, VueJS
-- **Platforms/Tools**: AWS (EC2, Lambda, Step Functions, RDS, Cloudfront, S3, Cloudwatch, CodePipeline, SNS/SQS, DynamoDB), Serverless Framework, Netlify, Vercel, Docker, Proxmox VE, Linux (Fedora/Debian/Ubuntu/Arch)
+- **Platforms/Tools**: AWS (EC2, Lambda, Step Functions, RDS, Cloudfront, S3, Cloudwatch, CodePipeline, SNS/SQS, DynamoDB), Serverless Framework, Netlify, Vercel, Docker, Proxmox VE, Linux (Fedora/Debian/Ubuntu/Arch, Proxmox VE 9.1
 - **Databases**: SQL, NoSQL
 - **SaaS Tools**: Salesforce SC/MC, Zuora, CommerceTools, Contentful, Amplience, Sanity, Algolia, TrustSpot
 
