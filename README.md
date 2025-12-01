@@ -16,7 +16,7 @@ I am a Software Engineer with extensive experience in building/supporting cloud-
 
 - Container Orchestration using Kubernetes
 - Network Design and Architecture, foundational Network Security 
-- Learning C/C++ for Game Server Emulation
+- Learning C/C++/C# for Game Server Emulation
 - Exploring self-hosted FOSS/DIY projects
 
 ## 📫 How to Reach Me
