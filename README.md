@@ -21,7 +21,7 @@ I am a Software Engineer with extensive experience in building/supporting cloud-
 
 ## 📫 How to Reach Me
 
-- **Email**: [patrickp.castro@protonmail.com](mailto:patrickp.castro@protonmail.com)
+- **Email**: [patrickp.castro@gmail.com](mailto:patrickp.castro@protonmail.com)
 - **LinkedIn**: [Patrick Paul C Castro](https://www.linkedin.com/in/patrickpcastro)
 
 ## 🤝 Let's Connect!
