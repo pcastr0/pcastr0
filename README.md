@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I am a Software Engineer with extensive experience in building/supporting cloud-native applications and headless/composable commerce architectures. I have a strong focus on Backend Engineering, DevOps practices, observability, monitoring and Automation mindset. I am deeply passionate about diving deep on Traditional/Modern/Hybrid-Cloud Systems Design and Infrastructure Engineering. I also enjoy experimenting with computer hardware in my spare time. I thrive on working on innovative projects and am eager to contribute to open-source communities that peaks my interest in Technologies.
+I am a Software Engineer with extensive experience in building/supporting cloud-native applications and headless/composable commerce architectures. I have a strong focus on Backend Engineering, DevOps practices, observability, monitoring and Automation mindset. I am deeply passionate about diving deep on Traditional/Modern/Hybrid-Cloud Systems Design and Infrastructure Engineering. I've always loved operating sysyems... I occasionaly checkout different flavors of "distros", I'm a true believer in the unix philosophy, that's why in general I've always enjoyed using "unix" like operating systems as my main daily driver since on that space I feel most productive. Lately I've got my passion back on experimenting with computer hardware but only if time and money permits 😅. I thrive on working/supporting on innovative projects and am eager to contribute to open-source communities that peaks my interest in Technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -15,8 +15,9 @@ I am a Software Engineer with extensive experience in building/supporting cloud-
 ## 🌱 Currently Learning
 
 - Container Orchestration using Kubernetes
-- Network Design and Architecture, foundational Network Security 
+- Getting my feet wet again into Network Design/Architecture, and foundational Network Security
 - Learning C/C++/C# for Game Server Emulation
+- Leaning more on using Go to develop my own tools
 - Exploring self-hosted FOSS/DIY projects
 
 ## 📫 How to Reach Me
